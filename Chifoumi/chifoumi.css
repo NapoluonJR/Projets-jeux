@@ -1,0 +1,95 @@
+.section{
+    height: 95vh;
+    position: relative;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aa15ff7d-d333-4bf9-b115-95e18f63fe91/d5ynr9c-33aeebd0-1cd8-45d9-86fc-8431aa114534.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhMTVmZjdkLWQzMzMtNGJmOS1iMTE1LTk1ZTE4ZjYzZmU5MVwvZDV5bnI5Yy0zM2FlZWJkMC0xY2Q4LTQ1ZDktODZmYy04NDMxYWExMTQ1MzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.drpgYmhn1x05leYjcLxQtnSJDwKa_DciUUDi4-LYJXA);
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+.box1{
+    height: 50px;
+    width: 50px;
+    border: 20px ridge orangered;
+    margin: 20px;
+    padding: 20px;
+    margin-top: 50px;
+    background-image: url(https://www.giantbomb.com/a/uploads/scale_medium/16/164924/3083931-8746743194-flat%2C.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.box2{
+    height: 50px;
+    width: 50px;
+    border: 20px ridge aqua;
+    margin: 20px;
+    padding: 20px;
+    margin-top: 50px;
+    background-image: url(https://ih0.redbubble.net/image.402379411.5464/flat,550x550,075,f.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.box3{
+    height: 50px;
+    width: 50px;
+    border: 20px ridge green;
+    margin: 20px;
+    padding: 20px;
+    margin-top: 50px;
+    background-image: url(https://cdn.chaoscards.co.uk/uploads/prod_img/2_176677_s.png?v=-62169983925);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.box4{
+    position: absolute;
+    top: 40%;
+    height: 50px;
+    width: 50px;
+    border: 20px ridge lightgrey;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(https://th.bing.com/th/id/OIP.4nt9GLAa5HZRM_SuxKr2HQHaHa?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.box5{
+    position: absolute;
+    right: 20%;
+    top: 40%;
+    height: 50px;
+    width: 50px;
+    border: 20px ridge black;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.box6{
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    height: 50px;
+    width: 50px;
+    border: 20px ridge black;
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
