@@ -10,7 +10,7 @@
     background-position: center;
     border-radius: 20px;
 }
-.box1{
+.choix1{
     height: 50px;
     width: 50px;
     border: 20px ridge orangered;
@@ -23,7 +23,7 @@
     border-radius: 50%;
     cursor: pointer;
 }
-.box2{
+.choix2{
     height: 50px;
     width: 50px;
     border: 20px ridge aqua;
@@ -36,7 +36,7 @@
     border-radius: 50%;
     cursor: pointer;
 }
-.box3{
+.choix3{
     height: 50px;
     width: 50px;
     border: 20px ridge green;
@@ -49,7 +49,7 @@
     border-radius: 50%;
     cursor: pointer;
 }
-.box4{
+.rejouer{
     position: absolute;
     top: 40%;
     height: 50px;
@@ -63,7 +63,7 @@
     border-radius: 50%;
     cursor: pointer;
 }
-.box5{
+.choixjoueur{
     position: absolute;
     right: 20%;
     top: 40%;
@@ -78,7 +78,7 @@
     border-radius: 50%;
     cursor: pointer;
 }
-.box6{
+.choixordinateur{
     position: absolute;
     left: 20%;
     top: 40%;
